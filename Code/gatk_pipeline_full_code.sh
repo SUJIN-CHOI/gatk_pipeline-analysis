@@ -140,15 +140,15 @@ snpeff(){
 
 
 
-#mapping
-#mapped_flatstat
-#make_sort_bam
-#mark_duplicate
-#make_markdup_bam_idx
+mapping
+mapped_flatstat
+make_sort_bam
+mark_duplicate
+make_markdup_bam_idx
 gatk_recalibrator
-#gatk_haplotypecaller
-#gatk_variantfilter
-#snpeff
+gatk_haplotypecaller
+gatk_variantfilter
+snpeff
 
 
 
